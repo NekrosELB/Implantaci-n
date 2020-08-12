@@ -1,0 +1,8 @@
+Revisando el video a partir de la hora 1:30 hasta la 1:45 lo que Daniel nos solicita es 
+
+- Investigar como integrar el motor de la base de datos en ambiente local con la 
+base de datos también local, para su publicación e ir configurando lo necesario para 
+que al momento de ingresar a tubipapia.tk nos salga el login, cuando eso suceda ya estaremos 
+listos. 
+
+- Instalar el sql Express y el Management Studio.
